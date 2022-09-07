@@ -37,7 +37,7 @@ conda deactivate
 So, if you are running these files, make sure that you use the correct environment. If you are in the current 
 python environment, you can just delete them. If you use another name, you can modify it.
 
-In some models, you may need to install the packages of PyG and DGL. Please check the original model repositories (in Original Repositories parts) for further environment details. 
+In some models, you may need to install the packages of PyG and DGL. Please check the original model repositories (in Reference parts) for further environment details. 
 
 ## Data
 
