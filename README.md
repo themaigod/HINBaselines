@@ -1,5 +1,5 @@
 # Heterogeneous Information Networks Baselines
-2021-2022, Aalto University, Finland  
+2021-2022, The Hong Kong polytechnic University  
 License: MIT (see LICENSE.md)  
 Authors: JIANG Maiqi  
 This repository (Heterogeneous Information Networks Baselines) is a collection of baseline models for heterogeneous information networks (HINs). The models are implemented in PyTorch. 
